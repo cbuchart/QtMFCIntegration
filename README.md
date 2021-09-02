@@ -1,5 +1,7 @@
 # QtMFCIntegration
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/749c9991e15943b1905358b561fa70b0)](https://app.codacy.com/gh/cbuchart/QtMFCIntegration?utm_source=github.com&utm_medium=referral&utm_content=cbuchart/QtMFCIntegration&utm_campaign=Badge_Grade_Settings)
+
 No problem if the Qt window is non-modal.
 
 If it is modal, the problem is that MFC and Qt have independent event loops, so a dialog that is modal Qt is not modal for MFC.
