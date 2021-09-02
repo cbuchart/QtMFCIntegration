@@ -1,3 +1,5 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/5d715212bd5a47c58ebf08c203dfce7e)](https://www.codacy.com/gh/cbuchart/QtMFCIntegration/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=cbuchart/QtMFCIntegration&amp;utm_campaign=Badge_Grade)
+
 # QtMFCIntegration
 
 No problem if the Qt window is non-modal.
